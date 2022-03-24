@@ -23,6 +23,12 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: 'A good phone with one of the best cameras'
+  },
+  {
+    id:4,
+    name: 'Tablet Samsung Tab S6 Lite',
+    price: 2369,
+    description: 'S Pen que inspira você a criar: seu design ergonômico, baixa latência e sensibilidade impressionante '
   }
 ];
 

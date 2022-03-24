@@ -5,4 +5,6 @@
     <!-- usa o pipe para transformar de um número em uma string de moeda.  -->
     <h3> {{ product.price | currency }}</h3>
     <h3> {{ product.description }} </h3>
+    <button type="button"
+    (click) = "addToCart(product)">Buy</button>
 </div>
